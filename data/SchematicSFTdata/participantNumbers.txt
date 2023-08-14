@@ -1,0 +1,19 @@
+Orientation Alignment   Code    Number
+Upright     Aligned     UA1     503
+Upright     Aligned     UA2     504
+Upright     Aligned     UA3     505
+Upright     Aligned     UA4     506
+Upright     Misaligned  UM1     601
+Upright     Misaligned  UM2     602
+Upright     Misaligned  UM3     604
+Upright     Misaligned  UM4     606
+Inverted    Aligned     IA1     702
+Inverted    Aligned     IA2     703
+Inverted    Aligned     IA3     704
+Inverted    Aligned     IA4     705
+Inverted    Misaligned  IM1     802
+Inverted    Misaligned  IM2     804
+Inverted    Misaligned  IM3     806
+Inverted    Misaligned  IM4     807
+
+
