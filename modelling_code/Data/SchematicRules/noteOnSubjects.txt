@@ -1,0 +1,28 @@
+% Composite/Split Face Experiment
+% Condition 5: Upright, aligned schematic faces
+subjects = [501 502 503 504 505 506]
+Subjects 501, 502, removed
+
+Keep subjects: 503, 504, 505, 506 
+sessions 2 to 8
+
+% Condition 6: Upright, split schematic faces
+subjects = [601, 602, 603, 604, 605, 606]
+Subjects 603, 605 removed
+
+Keep subjects 601, 602, 604, 606
+sessions 2 to 8
+
+% Condition 7: Inverted, aligned schematic faces
+subjects = [701, 702, 703, 704, 705]
+Subjects 701 removed
+
+Keep subjects 702, 703, 704, 705
+sessions 2 to 8
+
+% Condition 8: Inverted, split schematic faces
+subjects = [801, 802, 803, 804, 805, 806, 807]
+Subjects 803, 805 removed
+
+Keep subjects 801, 802, 804, 806, 807
+sessions 2 to 8
