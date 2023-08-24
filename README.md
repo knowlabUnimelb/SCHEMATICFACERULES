@@ -66,5 +66,7 @@ cols = {'Subject', 'Block', 'Number', 'Set', 'Cued', 'Resp', 'Congruent', 'Direc
 
 - \csv_files\ contain the rawdata in csvfile format
 
+- main analysis script is analyseData.m
+
 FaceCompMDS [Turk]
 - Main data used to derive the coordinates used in the modeling in the paper
